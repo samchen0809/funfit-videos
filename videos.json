@@ -18,12 +18,22 @@
     },
 
     {
+      "id": "sOpm6E1lnpc",
+      "title": "Virtual Bike ",
+      "startTime": 0,
+      "duration": "30:00",
+      "thumbnail": "https://img.youtube.com/vi/sOpm6E1lnpc/mqdefault.jpg"
+    },
+
+    {
       "id": "jbn3aO2uA_4",
       "title": "Virtual Run 4K - Lake Wanaka ",
       "startTime": 0,
       "duration": "30:00",
       "thumbnail": "https://img.youtube.com/vi/jbn3aO2uA_4/mqdefault.jpg"
     },
+
+
 
 
 
@@ -50,4 +60,6 @@
 
   ]
 }
+
+
 
